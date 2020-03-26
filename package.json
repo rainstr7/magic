@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "src/magic.js",
-  "bin": {
-    "magic-start": "bin/magic-start.js"
-  },
   "scripts": {
-    "test": "jest --colors"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "jest": {
     "testEnvironment": "node"
