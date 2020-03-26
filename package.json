@@ -7,7 +7,7 @@
     "magic-start": "bin/magic-start.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest --colors"
   },
   "jest": {
     "testEnvironment": "node"
