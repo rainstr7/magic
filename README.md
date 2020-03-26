@@ -1,5 +1,6 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/fa9fa266a0ff04227f53/maintainability)](https://codeclimate.com/github/rainstr7/magic/maintainability)
 ![Node CI](https://github.com/rainstr7/magic/workflows/Node%20CI/badge.svg)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/fa9fa266a0ff04227f53/test_coverage)](https://codeclimate.com/github/rainstr7/magic/test_coverage)
 <h3>magic.js</h3>
 
 Реализуйте и экспортируйте по умолчанию функцию, которая работает следующим образом:
