@@ -18,4 +18,9 @@ lint:
 	npx eslint .
 
 test:
-	npm -s test
+	npx jest
+
+test-coverage:
+	npx jest --coverage
+
+.PHONY: test

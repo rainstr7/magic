@@ -1,8 +1,7 @@
-export default function magic(...numbers) {
+const magic = (...numbers) => {
   const sum = numbers.reduce((acc, num) => num + acc, 0);
-  function inner(...rest) {
-    return magic(sum, ...rest);
-  }
+  const inner = (...rest) => magic(sum, ...rest);
   inner.valueOf = () => sum;
   return inner;
-}
+};
+export default magic;
