@@ -1,3 +1,4 @@
+[![Maintainability](https://api.codeclimate.com/v1/badges/fa9fa266a0ff04227f53/maintainability)](https://codeclimate.com/github/rainstr7/magic/maintainability)
 <h3>magic.js</h3>
 
 Реализуйте и экспортируйте по умолчанию функцию, которая работает следующим образом:
