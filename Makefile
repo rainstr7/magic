@@ -1,6 +1,4 @@
 # Makefile
-start:
-	magic-start
 
 install:
 	npm install
@@ -22,5 +20,3 @@ test:
 
 test-coverage:
 	npx jest --coverage
-
-.PHONY: test
